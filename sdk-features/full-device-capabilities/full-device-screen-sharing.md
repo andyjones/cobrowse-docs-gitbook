@@ -40,7 +40,7 @@ The Cobrowse.io SDK for iOS allows full device screen capture, but this requires
 4. Enter a name for the target
 5. Uncheck "Include UI Extension"
 6. Create the target, noting its bundle ID
-7. Change the target SDK of your Broadcast Extension to iOS 12.0 or higher
+7. Change the target SDK of your Broadcast Extension to iOS 15.0 or higher
 
 **Set up Keychain Sharing**
 
@@ -233,7 +233,7 @@ In Visual Studio for Mac:
 6. Select your iOS app to add the extension to
 7. Create the location for the extension and press "Create"
 8. Visual Studio for Mac will create two extension projects for you: `YourApp.iOS.BroadcastUploadExtension` and `YourApp.iOS.BroadcastUploadExtensionUI`. The second project is not required and you can safely delete it.
-9. Change the target SDK of your Broadcast Extension target to at least iOS 10.0
+9. Change the target SDK of your Broadcast Extension target to at least iOS 15.0
 
 {% hint style="info" %}
 Visual Studio for Mac might not have project templates for iOS extensions in .NET. You can install [`DotNetTemplates from NuGet.org`](https://www.nuget.org/packages/VladislavAntonyuk.DotNetTemplates) and then run the following command:

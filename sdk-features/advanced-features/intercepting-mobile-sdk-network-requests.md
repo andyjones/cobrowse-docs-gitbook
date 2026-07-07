@@ -30,7 +30,7 @@ class CustomURLSessionDelegate: NSObject, URLSessionTaskDelegate {
 ```
 
 {% hint style="info" %}
-Requires iOS 15+ macOS 12+
+Requires iOS 15+ macOS 13+
 {% endhint %}
 {% endtab %}
 

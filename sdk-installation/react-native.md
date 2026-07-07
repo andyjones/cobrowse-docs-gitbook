@@ -32,7 +32,7 @@ Once you have your app running in the iOS Simulator or on a physical device, nav
 
 ## Requirements
 
-* iOS 12.0, Android API 19 or above.
+* iOS 15.0, Android API 23 or above.
 
 {% hint style="success" %}
 Any questions at all? Please email us at [hello@cobrowse.io](mailto:hello@cobrowse.io).
