@@ -28,7 +28,7 @@ Visit the marketplace to see our about the apps:
 
 Before installing the Freshdesk or Freschat Cobrowse.io apps you'll need to:
 
-* You have a Cobrowse accoutnt. If you don't have a Cobrowse account please register at [https://cobrowse.io/register](https://cobrowse.io/register). Note that a single account can be used for both Freshdesk and Freshchat
+* You have a Cobrowse account. If you don't have a Cobrowse account please register at [https://cobrowse.io/register](https://cobrowse.io/register). Note that a single account can be used for both Freshdesk and Freshchat
 * Make note of your license key at [https://cobrowse.io/dashboard/settings](https://cobrowse.io/dashboard/settings)
 * Generate a new private/public key pair following our article: [https://support.cobrowse.io/generating-cryptographic-keys-for-jwt-authentication](https://support.cobrowse.io/generating-cryptographic-keys-for-jwt-authentication)
 
@@ -54,7 +54,7 @@ You must keep your private key secure at all times as it grants access to your a
 
 If you see a "Invalid Cobrowse.io JWT private key" error this could mean the wrong value was copied on the JWT private key.
 
-Ensure that  the first line looks like `-----BEGIN PRIVATE KEY-----` and the last line looks like `-----END PRIVATE KEY-----` . If it says `PUBLIC KEY` this means the wrong key was copied, ensure you copy the right key.
+Ensure that the first line looks like `-----BEGIN PRIVATE KEY-----` and the last line looks like `-----END PRIVATE KEY-----` . If it says `PUBLIC KEY` this means the wrong key was copied, ensure you copy the right key.
 
 ### Group based access control
 
