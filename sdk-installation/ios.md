@@ -18,6 +18,10 @@ Add the `CobrowseSDK` package dependency to **your app target**.
 {% endtab %}
 
 {% tab title="Pods" %}
+{% hint style="warning" %}
+[CocoaPods will no longer accept pod updates after 2nd December 2026](https://blog.cocoapods.org/CocoaPods-Specs-Repo/) so Cobrowse cannot publish updates through that platform after this date. We recommend migrating to the Swift Package Manager (SPM) instead.
+{% endhint %}
+
 ```ruby
 pod 'CobrowseIO', '~>3'
 ```
