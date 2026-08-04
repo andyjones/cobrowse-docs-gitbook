@@ -142,6 +142,15 @@ See [https://docs.cobrowse.io/sdk-features/identify-your-devices](https://docs.c
 
 If you have any questions about the above steps then please get in touch at [support@cobrowse.io](mailto:support@cobrowse.io)!
 
+### Updating to the latest release
+
+Check your installed version in Setup under Installed Packages and follow the matching step:
+
+* **On v2.2.0 or later** - Install the recommended release from our [AppExchange listing](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FvKspUAF), choosing Install for All Users.
+* **On v2.1** - install our [1GP to 2GP migration package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tVV000001oTFxYAM) and then install the recommended release from the AppExchange listing as above.
+
+Still on v1? Start with [Migrating from legacy to v2](migrating-from-legacy-to-v2.md). If you have any questions about the upgrade then please get in touch at [hello@cobrowse.io](mailto:hello@cobrowse.io) and we'll help.
+
 ## Troubleshooting
 
 ### Granting multiple users Cobrowse.io Admin role permissions
