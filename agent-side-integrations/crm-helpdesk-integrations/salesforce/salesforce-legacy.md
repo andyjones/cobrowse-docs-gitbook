@@ -64,7 +64,7 @@ Here's what it looks like to assign these Permission Sets. Admins will be able t
 
 ![salesforce app for cobrowse.io documentation](https://cobrowse.io/static/media/salesforce-permission-sets-2.4f1086c9.png)
 
-If you have any questions at all, we'd be happy to guide you through it. Please email us at [support@cobrowse.io](mailto:support@cobrowse.io)!
+If you have any questions at all, we'd be happy to guide you through it. Please email us at [hello@cobrowse.io](mailto:hello@cobrowse.io)!
 
 ## Generate signing certificate
 
@@ -116,4 +116,4 @@ Now you will see the Cobrowse.io Widget in the sidebar of this Record page. Here
 
 ![salesforce app for cobrowse.io documentation](https://cobrowse.io/static/media/salesforce-edit-page-5.e157d40c.png)
 
-If you'd like to modify which fields are used to pre-filter the relevant devices for a particular Record, this is what the Filter Config setting is for under App Launcher -> Cobrowse.io Settings. Please email us at [support@cobrowse.io](mailto:support@cobrowse.io) if you have any questions!
+If you'd like to modify which fields are used to pre-filter the relevant devices for a particular Record, this is what the Filter Config setting is for under App Launcher -> Cobrowse.io Settings. Please email us at [hello@cobrowse.io](mailto:hello@cobrowse.io) if you have any questions!
