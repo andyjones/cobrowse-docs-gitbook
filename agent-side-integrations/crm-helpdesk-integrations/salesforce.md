@@ -116,7 +116,7 @@ In the example above \(and by default\), "ContactEmail" in Salesforce is mapped 
 
 See [https://docs.cobrowse.io/sdk-features/identify-your-devices](https://docs.cobrowse.io/sdk-features/identify-your-devices) for more information on using Cobrowse.io custom data to identify your devices.
 
-If you have any questions about the above steps then please get in touch at [support@cobrowse.io](mailto:support@cobrowse.io)!
+If you have any questions about the above steps then please get in touch at [hello@cobrowse.io](mailto:hello@cobrowse.io)!
 
 ## Troubleshooting
 
