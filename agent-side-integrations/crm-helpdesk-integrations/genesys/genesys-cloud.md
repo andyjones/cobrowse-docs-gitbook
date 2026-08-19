@@ -44,6 +44,14 @@ For the Cobrowse.io Interaction Widget, you can also specify the Communication T
 
 Possible communication types can be found in the Genesys docs: [https://developer.genesys.cloud/routing/routing/available-media-types](https://developer.genesys.cloud/routing/routing/available-media-types). Note that for Message, you only need to list the subtype name, e.g. `open`.
 
+## Reporting on Cobrowse interactions
+
+Cobrowse.io sets the Genesys interaction record `externalTag` to `Cobrowse.io session`. You can use this to filter for interactions which used Cobrowse in the Analytics workspace.
+
+{% hint style="info" %}
+If you already use the `externalTag` field for your own reporting, you can disable this behaviour by adding `recordExternalTag=false` to the Interaction Widget's Application URL in Genesys, e.g. `https://cobrowse.io/apps/genesys/index.html?langTag={{pcLangTag}}&environment={{pcEnvironment}}&env=cloud&recordExternalTag=false`
+{% endhint %}
+
 ## Self-hosted instances
 
 Please email us at [hello@cobrowse.io](mailto:hello@cobrowse.io) before switching to your self-hosted instance.
